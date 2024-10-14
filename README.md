@@ -21,9 +21,11 @@ This project involves analyzing patient diagnosis data using Power BI to uncover
 
 
 
+
 **Data**
 
 *The dataset consists of patient history data with 28 attributes, including:
+
 
 **Demographics:** Gender, race, age group.
 
@@ -38,7 +40,10 @@ This project involves analyzing patient diagnosis data using Power BI to uncover
 
 
 
+
 **Visualizations**
+
+
 
 The Power BI dashboard contains several interactive charts and graphs:
 
@@ -54,7 +59,10 @@ The Power BI dashboard contains several interactive charts and graphs:
 
 
 
+
 **Getting Started**
+
+
 
 *Clone the repository.
 
@@ -63,7 +71,9 @@ The Power BI dashboard contains several interactive charts and graphs:
 *Explore the visualizations and interact with the data to gain insights.
 
 
+
 **Requirements**
+
 
 
 *Power BI Desktop
